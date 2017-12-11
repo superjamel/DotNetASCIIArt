@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DotNetASCIIArt
+namespace Corescii
 {
     public class Class1
     {
